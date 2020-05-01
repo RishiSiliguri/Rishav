@@ -1,3 +1,6 @@
+//Question: Write a C Program to find whether a trisangle is isosceles, equidrateral or, scaline.
+
+//Solution:
 #include<stdio.h>
 #include<stdlib.h>
 int main()
