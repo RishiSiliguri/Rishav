@@ -1,4 +1,7 @@
- #include<stdio.h>
+//Question: Write a C Program to find the sum of given numbers, in an Array.
+
+//Solution: 
+#include<stdio.h>
 #include<stdlib.h>
 main()
 {
