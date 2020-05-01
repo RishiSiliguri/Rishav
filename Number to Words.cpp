@@ -1,3 +1,6 @@
+//Question: Write a C Program to convert the input numbers to the words.
+
+//Solution:
 #include<stdio.h>
 main()
 {
