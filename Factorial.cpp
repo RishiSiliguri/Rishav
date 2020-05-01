@@ -1,3 +1,6 @@
+//Question: Write a C Program to find the factorial of a given number.
+
+//Solution:
 #include<stdio.h>
 #include<stdlib.h>
 int main()
